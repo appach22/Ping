@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ping</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="host_hint">Enter host address</string>
+    <string name="ping">Ping!</string>
+    <string name="stop">Stop!</string>
+    <string name="cancelled">Cancelled by user!</string>
+    <string name="pinging">Pinging</string>
+    <string name="average">Average time</string>
+    <string name="no_connection">Cannot display current network parameters: no connection!</string>
+    <string name="no_dhcp">Cannot display current network parameters: no DHCP info!</string>
+    
+</resources>
